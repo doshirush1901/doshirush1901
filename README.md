@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rushabh</h1>
 
 <p align="center">
-  <strong>Founder @ <a href="https://machinecraft.in">Machinecraft Technologies</a></strong><br>
+  <strong>Founder @ <a href="https://www.machinecraft.org">Machinecraft Technologies</a></strong><br>
   Building vacuum forming machines for the world — and the AI that sells them.
 </p>
 
@@ -50,7 +50,7 @@ I built Pantheon because I got tired of answering the same technical questions a
     <img src="https://img.shields.io/github/stars/doshirush1901/pantheon?style=social" alt="Stars">
   </a>
   &nbsp;&nbsp;
-  <a href="https://machinecraft.in">
-    <img src="https://img.shields.io/badge/machinecraft.in-website-blue" alt="Website">
+  <a href="https://www.machinecraft.org">
+    <img src="https://img.shields.io/badge/machinecraft.org-website-blue" alt="Website">
   </a>
 </p>
